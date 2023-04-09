@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="gzproxy"
+export PACKAGE_CORE_VERSION=v1.4.4
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/go-zoox/gzproxy/releases/download"
